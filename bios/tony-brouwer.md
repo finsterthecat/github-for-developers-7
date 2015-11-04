@@ -1,6 +1,4 @@
-## Introduction
-
-This is my first file.
+##Introduction##
 
 **Favorite color**: burnt umber
 
