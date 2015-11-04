@@ -2,9 +2,9 @@
 
 This is my first file.
 
-** Favorite color **: burnt umber
+**Favorite color**: burnt umber
 
-** Occupation **: Programmer
+**Occupation**: Programmer
 
-** Home town **: Toronto, Canada
+**Home town**: Toronto, Canada
 
